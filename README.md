@@ -12,3 +12,11 @@ pip install -r requirements.txt
 ```
 It should work, but this repo is not something very well tested, just fun project
 
+.env
+SPEECH_ENDPOINT =
+SPEECH_KEY=
+SPEECH_REGION=
+OPENAI_API_BASE=
+OPENAI_API_KEY=
+OPENAI_QnA_MODEL = 
+
